@@ -1,0 +1,3 @@
+files:
+  - source: /**/Resources/Strings/Base.lproj/*.strings
+    translation: /**/Resources/Strings/%locale%.lproj/*.strings
