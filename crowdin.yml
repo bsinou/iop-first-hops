@@ -1,12 +1,3 @@
 files:
   - source: /**/Base.lproj/*.strings
     translation: /**/%locale%.lproj/%original_file_name%
-    languages_mapping:
-      locale:
-        en-US: en
-        fr: fr
-        de: de
-        pt-BR: pt-br
-        es-ES: es-es
-        it: it
-        ja: ja
