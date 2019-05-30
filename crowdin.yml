@@ -1,3 +1,11 @@
 files:
-  - source: /**/Resources/Strings/Base.lproj/*.strings
-    translation: /**/Resources/Strings/%locale%.lproj/*.strings
+  - source: /**/Strings/Base.lproj/*.strings
+    translation: /**/Strings/%locale%.lproj/*.strings
+    languages_mapping:
+      locale:
+        fr: fr
+        de: de
+        pt-BR: pt-br
+        es-ES: es-es
+        it: it
+        ja: ja
