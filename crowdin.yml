@@ -1,6 +1,6 @@
 files:
-  - source: /**/Strings/Base.lproj/*.strings
-    translation: /**/Strings/%locale%.lproj/*.strings
+  - source: /**/Base.lproj/*.strings
+    translation: /**/%locale%.lproj/%original_file_name%
     languages_mapping:
       locale:
         fr: fr
