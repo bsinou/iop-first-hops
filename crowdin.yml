@@ -3,6 +3,7 @@ files:
     translation: /**/%locale%.lproj/%original_file_name%
     languages_mapping:
       locale:
+        en-US: en
         fr: fr
         de: de
         pt-BR: pt-br
